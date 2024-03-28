@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### Tec
 <!--
 **mathe-u/mathe-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
